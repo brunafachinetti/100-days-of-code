@@ -15,6 +15,11 @@
 
 **Link to work: [TecBlog](http://github.com/brunafachinetti/tecblog)
 
+###Day 2: 30 April, 2020
+
+**Today's Progress: I've learned how to make a horizontal navigation menu, how to mark up the current page, how to make a navigation with tabs, layout with fixed width and liquid layout, liquid images, false column and how to stylize a table.
+
+**Thoughts: Very interesting and quite easy so far.
 
 
 
