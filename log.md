@@ -38,6 +38,14 @@
 **Today's Progress: I've started to build a Bed & Breakfast Website with fluid layout. Not responsive yet, just fluid with min and max width. Very challenging and again, need the teacher's help many times.
 **Thoughts: I'm enjoying this so much! Can't stop doing it. My family complains I stay in my bedroom for too long but I just can't stop doing what I'm doing hahahahaha
 
+### 6th May DID NOT CODE :( ###
+
+###Day 6: 7 May, 2020
+
+**Today's Progress: I've finished Bed & Breakfast Website with fluid layout.
+**Thoughts: This second part was quite easier than first half, but I still needed some help from teacher, couldn't do it 100% alone.
+
+
 
 
 
