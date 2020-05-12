@@ -67,6 +67,14 @@
 
 **Thoughts: Very cool project!
 
+###Day 10: 11th May, 2020
+
+**Today's Progress: Stopped museum project to build a website for family business!
+
+**Thoughts: Even more cool project! Not finished yet but have to wait until they decide some stuff. Leaving this way and going back to museum website tomorrow.
+
+**Link to work: [Nosso Kitute](http://nossokitute.onlinewebshop.net)
+
 
 
 
