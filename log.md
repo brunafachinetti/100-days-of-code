@@ -85,9 +85,19 @@
 
 ###Day 1: 28th June, 2020
 
-**Today's Progress: Finished uncle's Jack website!
+**Today's Progress: Finished uncle's Jack website! 
 
 **Thoughts: Very disappointed at me for stopping coding for such a long time but a little proud that at least I'm back on track and heady to kick some asses. I learned the basics about Bootstrap and it's features, how to use flexbox and organize sections and menus. Pretty cool!
+
+**Link to work: [Espetos do Indião](http://espetodoindiao.onlinewebshop.net)
+
+###Day 2: 29th June, 2020
+
+**Today's Progress: Finished Spotify-Copy homepage!
+
+**Thoughts: Learned about carousel. Quite easy. I think the hard part it's the idea, obviously. To design the website, the concept. After you already have it, coding it is easy. Of course I'm talking about simple websites. 
+
+**Link to work: [Spotify Copy](http://aulaspotify.atwebpages.com)
 
 
 
