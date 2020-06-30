@@ -99,6 +99,16 @@
 
 **Link to work: [Spotify Copy](http://aulaspotify.atwebpages.com)
 
+###Day 3: 30th June, 2020
+
+**Today's Progress: Published uncle's Jack website and created accounts at Free Code Camp and Code Pen. 
+
+**Thoughts: I tried to start building a webpage for my sister and for my surprise I wasn't able to do very simple stuff by heart. I got really disappointed at myself and decided to go deeper on HTML and CSS until I master it! These two tools are enough to make very beautiful websites so I need to be good at it before moving foward to Javascript.
+Uncle's Jack business website is published and working well in all devices :)
+Just remembered I should get some SEO lessons too.
+
+**Link to work: [Espetos do Indião](http://www.espetosdoindiao.com.br)
+
 
 
 
