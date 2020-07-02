@@ -109,6 +109,19 @@ Just remembered I should get some SEO lessons too.
 
 **Link to work: [Espetos do Indião](http://www.espetosdoindiao.com.br)
 
+###Day 4: 1st July, 2020
+
+**Today's Progress: Started Free Code Camp Responsive Web Design Certification and finished 3 first modules. 
+
+**Thoughts: It's been very cool using the free code camp website! Their system is very neat and intuitive, the quality and objectiveness of the lessons are very high, really liked it. As there's no video and just challenges, I can do it at my own pace.
+
+###Day 5: 2nd July, 2020
+
+**Today's Progress: Doing the forth module of Free Code Camp Responsive Web Design Certification.
+
+**Thoughts: So far it is easy as I already know the content, I'm just fixing it in my mind. Maybe I will feel like this the entire certification process, lets see. Still dont know how to make the image fulfil the entire screen no matter the size of the screen.
+
+
 
 
 
