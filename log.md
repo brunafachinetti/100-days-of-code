@@ -121,6 +121,21 @@ Just remembered I should get some SEO lessons too.
 
 **Thoughts: So far it is easy as I already know the content, I'm just fixing it in my mind. Maybe I will feel like this the entire certification process, lets see. Still dont know how to make the image fulfil the entire screen no matter the size of the screen.
 
+###Day 6: 3rd July, 2020
+
+**Today's Progress: Finished fourth and fifth part of the course and learned a few things about accessibility and responsive features.
+
+**Thoughts: Finally learned the thing that made me start this: how to make an image responsive! 😜
+Now I know all I had to do was to set the image properties to max-width: 100% and height: auto 🙃 sooo freaking simple! I will never forget again hahahaha
+
+###Day 7: 4th July, 2020
+
+**Today's Progress: Finished sixth and seventh part of the course and now I will move on to the eighth and last part of it: building projects!
+
+**Thoughts: It seems like I know how to do stuff, but I still doesn't know the best way to do it. The fastest, easiest. I feel like it will take many time to do something that I experienced programmer would do within minutes. So that's the secret I guess: experience. I need to practice more and more, build many projects, even if it is for fake business or people, just build it! The experience will make me faster and more confident.
+
+
+
 
 
 
