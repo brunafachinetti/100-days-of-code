@@ -13,7 +13,7 @@
 
 **Thoughts: So far so good. I felt like practicing so I started coding an old project again from Curso em Video "Projeto Glass".
 
-**Link to work: [TecBlog](http://github.com/brunafachinetti/tecblog)
+**Link to work: <a href="http://github.com/brunafachinetti/tecblog" target="_blank">[TecBlog]</a>
 
 ###Day 2: 30th April, 2020
 
@@ -97,7 +97,7 @@
 
 **Thoughts: Learned about carousel. Quite easy. I think the hard part it's the idea, obviously. To design the website, the concept. After you already have it, coding it is easy. Of course I'm talking about simple websites. 
 
-**Link to work: [Spotify Copy](href="http://aulaspotify.atwebpages.com" target="_blank")
+**Link to work: <a href="http://aulaspotify.atwebpages.com" target="_blank">[Spotify Copy]</a>
 
 ###Day 3: 30th June, 2020
 
