@@ -89,7 +89,7 @@
 
 **Thoughts: Very disappointed at me for stopping coding for such a long time but a little proud that at least I'm back on track and heady to kick some asses. I learned the basics about Bootstrap and it's features, how to use flexbox and organize sections and menus. Pretty cool!
 
-**Link to work: [Espetos do Indião ](http://espetodoindiao.onlinewebshop.net)
+**Link to work: [Espetos do Indião ](http://www.espetosdoindiao.com.br)
 
 ###Day 2: 29th June, 2020
 
@@ -101,7 +101,7 @@
 
 ###Day 3: 30th June, 2020
 
-**Today's Progress: Published uncle's Jack website and created accounts at Free Code Camp and Code Pen. 
+**Today's Progress: Published uncle's Jack website with .com.br domain name and created accounts at Free Code Camp and Code Pen websites. 
 
 **Thoughts: I tried to start building a webpage for my sister and for my surprise I wasn't able to do very simple stuff by heart. I got really disappointed at myself and decided to go deeper on HTML and CSS until I master it! These two tools are enough to make very beautiful websites so I need to be good at it before moving foward to Javascript.
 Uncle's Jack business website is published and working well in all devices :)
