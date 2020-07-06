@@ -140,7 +140,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: Still hard to do things from memory. For this project I checked a few times the source-code of the example given to see how it was done.
 
-**Link to work: [Tribute Page](http://www.aulaspotify.atwebpages.com/tribute)
+**Link to work: [Tribute Page](http://aulaspotify.atwebpages.com/tribute/)
 
 ###Day 9: 6th July, 2020
 
@@ -148,15 +148,15 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: I could not make my page to look exactly like the example. Text fields are still bigger than the div limits and I'm still checking source-code.
 
-**Link to work: [Survey Form](http://www.aulaspotify.atwebpages.com/form)
+**Link to work: [Survey Form](http://aulaspotify.atwebpages.com/form/)
 
 ###Day 10: 7th July, 2020
 
 **Today's Progress: Built Project 3 of 5. 
 
-**Thoughts: For this project I checked many times the source-code. I'm pretty sure that are more than one way to build webpages and both or all of them are correct as long as the code is as much small and clean as possible.
+**Thoughts: For this project I checked many, many times the source-code. I'm pretty sure that are more than one way to build webpages and both or all of them are correct as long as the code is as much small and clean as possible.
 
-**Link to work: [Product Landing Page](http://www.aulaspotify.atwebpages.com/product)
+**Link to work: [Product Landing Page](http://aulaspotify.atwebpages.com/product/)
 
 ###Day 11: 8th July, 2020
 
@@ -164,7 +164,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: 
 
-**Link to work: [Technical Documentation Page](http://www.aulaspotify.atwebpages.com/technical)
+**Link to work: [Technical Documentation Page](http://aulaspotify.atwebpages.com/technical/)
 
 ###Day 12: 9th July, 2020
 
@@ -172,7 +172,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: 
 
-**Link to work: [Personal Portfolio Webpage](http://www.aulaspotify.atwebpages.com/portfolio)
+**Link to work: [Personal Portfolio Webpage](http://aulaspotify.atwebpages.com/portfolio/)
 
 
 
