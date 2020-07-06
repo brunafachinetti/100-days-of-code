@@ -141,6 +141,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 **Thoughts: Still hard to do things from memory. For this project I checked a few times the source-code of the example given to see how it was done.
 
 **Link to work: [Tribute Page](http://aulaspotify.atwebpages.com/tribute/)
+**Link to the original file: [FreeCodeCamp Project 1 - Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
 
 ###Day 9: 6th July, 2020
 
@@ -149,6 +150,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 **Thoughts: I could not make my page to look exactly like the example. Text fields are still bigger than the div limits and I'm still checking source-code.
 
 **Link to work: [Survey Form](http://aulaspotify.atwebpages.com/form/)
+**Link to the original file: [FreeCodeCamp Project 2 - Survey Form](https://codepen.io/freeCodeCamp/full/VPaoNP)
 
 ###Day 10: 7th July, 2020
 
