@@ -1,4 +1,4 @@
-100 Days Of Code - Log
+<strong>100 Days Of Code - Log</strong>
 
 ###Day 0: 28th April, 2020
 
