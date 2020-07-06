@@ -89,7 +89,7 @@
 
 **Thoughts: Very disappointed at me for stopping coding for such a long time but a little proud that at least I'm back on track and heady to kick some asses. I learned the basics about Bootstrap and it's features, how to use flexbox and organize sections and menus. Pretty cool!
 
-**Link to work: [Espetos do Indião](http://espetodoindiao.onlinewebshop.net)
+**Link to work: [Espetos do Indião ](http://espetodoindiao.onlinewebshop.net)
 
 ###Day 2: 29th June, 2020
 
@@ -97,7 +97,7 @@
 
 **Thoughts: Learned about carousel. Quite easy. I think the hard part it's the idea, obviously. To design the website, the concept. After you already have it, coding it is easy. Of course I'm talking about simple websites. 
 
-**Link to work: [Spotify Copy](http://aulaspotify.atwebpages.com)
+**Link to work: [Spotify Copy](href="http://aulaspotify.atwebpages.com" target="_blank")
 
 ###Day 3: 30th June, 2020
 
@@ -140,7 +140,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: Still hard to do things from memory. For this project I checked a few times the source-code of the example given to see how it was done.
 
-**Link to work: [Tribute Page](http://aulaspotify.atwebpages.com/tribute/)
+**Link to work: [Tribute Page](http://aulaspotify.atwebpages.com/tribute/)<br>
 **Link to the original file: [FreeCodeCamp Project 1 - Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
 
 ###Day 9: 6th July, 2020
@@ -149,7 +149,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: I could not make my page to look exactly like the example. Text fields are still bigger than the div limits and I'm still checking source-code.
 
-**Link to work: [Survey Form](http://aulaspotify.atwebpages.com/form/)
+**Link to work: [Survey Form](http://aulaspotify.atwebpages.com/form/)<br>
 **Link to the original file: [FreeCodeCamp Project 2 - Survey Form](https://codepen.io/freeCodeCamp/full/VPaoNP)
 
 ###Day 10: 7th July, 2020
