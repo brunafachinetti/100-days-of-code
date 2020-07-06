@@ -13,7 +13,7 @@
 
 **Thoughts: So far so good. I felt like practicing so I started coding an old project again from Curso em Video "Projeto Glass".
 
-**Link to work: <a href="http://github.com/brunafachinetti/tecblog" target="_blank">[TecBlog]</a>
+**Link to work: <a href="http://github.com/brunafachinetti/tecblog" target="_blank">TecBlog</a>
 
 ###Day 2: 30th April, 2020
 
@@ -97,7 +97,7 @@
 
 **Thoughts: Learned about carousel. Quite easy. I think the hard part it's the idea, obviously. To design the website, the concept. After you already have it, coding it is easy. Of course I'm talking about simple websites. 
 
-**Link to work: <a href="http://aulaspotify.atwebpages.com" target="_blank">[Spotify Copy]</a>
+**Link to work: <a href="http://aulaspotify.atwebpages.com" target="_blank">Spotify Copy</a>
 
 ###Day 3: 30th June, 2020
 
@@ -156,9 +156,10 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Today's Progress: Built Project 3 of 5. 
 
-**Thoughts: For this project I checked many, many times the source-code. I'm pretty sure that are more than one way to build webpages and both or all of them are correct as long as the code is as much small and clean as possible.
+**Thoughts: For this project I checked many, many times the source-code. I'm starting to think that there's more than one way to build a webpage and all the ways are correct as long as the code is clean and following the good practices.
 
-**Link to work: [Product Landing Page](http://aulaspotify.atwebpages.com/product/)
+**Link to work: [Product Landing Page](http://aulaspotify.atwebpages.com/product/)<br>
+**Link to the original file: [FreeCodeCamp Project 3 - Product Landing Page]()
 
 ###Day 11: 8th July, 2020
 
@@ -166,7 +167,8 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: 
 
-**Link to work: [Technical Documentation Page](http://aulaspotify.atwebpages.com/technical/)
+**Link to work: [Technical Documentation Page](http://aulaspotify.atwebpages.com/technical/)<br>
+**Link to the original file: [FreeCodeCamp Project 4 - Technical Documentation Page]()
 
 ###Day 12: 9th July, 2020
 
@@ -174,7 +176,8 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: 
 
-**Link to work: [Personal Portfolio Webpage](http://aulaspotify.atwebpages.com/portfolio/)
+**Link to work: [Personal Portfolio Webpage](http://aulaspotify.atwebpages.com/portfolio/)<br>
+**Link to the original file: [FreeCodeCamp Project 5 - Personal Portfolio Webpage]()
 
 
 
