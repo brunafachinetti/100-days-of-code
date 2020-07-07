@@ -156,10 +156,10 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Today's Progress: Built Project 3 of 5. 
 
-**Thoughts: For this project I checked many, many times the source-code. I'm starting to think that there's more than one way to build a webpage and all the ways are correct as long as the code is clean and following the good practices.
+**Thoughts: Before starting this project I've studied a little about Flexbox and Grid and also checked a few websites source-code. I'm starting to think that there's more than one way to build a webpage and all the ways are correct as long as the code is clean and following the good practices. Or maybe not, there is one right way and many wrong ways lol Anyway, I've studied about flexbox and grid too, the difference between them and when to use each one. Got a better understanding on how flexbox works, it feels like I was doing things ramdomly, without actually knowing what I was doing and just followig the teacher or the example. Now I think I've started to understand the process of adjusting a layout with flexbox and grid. But just starting, as I still don't know how to make just one card per row when wraping. Look at the difference between the example and my work when you shrink the page width. In the example, the card shrinks to a minimum width and then goes one card per row. I couldn't do that =/
 
 **Link to work: [Product Landing Page](http://aulaspotify.atwebpages.com/product/)<br>
-**Link to the original file: [FreeCodeCamp Project 3 - Product Landing Page]()
+**Link to the original file: [FreeCodeCamp Project 3 - Product Landing Page](https://codepen.io/freeCodeCamp/full/RKRbwL)
 
 ###Day 11: 8th July, 2020
 
