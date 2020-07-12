@@ -181,75 +181,23 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 ###Day 14: 11th July, 2020
 
-**Today's Progress: Saw some videos and articles about SEO. Relaxing day, no coding, no studying.
+**Today's Progress: Saw some videos and articles about SEO. Relaxing day, no coding, no studying. Tomorrow will be 14/100 again.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###Day 15: 12th July, 2020
+###Day 14: 12th July, 2020
 
 **Today's Progress: Finished building Project 4 of 5.
 
-**Thoughts: 
+**Thoughts: Easier than the other projects. Built it completely by myself but when I finished and checked example source code to compare I found out I made it completely different at first, using flexbox while example used absolute, fixed and relative positions with margins. 
 
 **Link to work: [Technical Documentation Page](http://aulaspotify.atwebpages.com/technical/)<br>
 **Link to the original file: [FreeCodeCamp Project 4 - Technical Documentation Page](https://codepen.io/freeCodeCamp/full/NdrKKL)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-###Day 15: 12th July, 2020
+###Day 15: 13th July, 2020
 
 **Today's Progress: Built Project 5 of 5. 
 
 **Thoughts: 
 
 **Link to work: [Personal Portfolio Webpage](http://aulaspotify.atwebpages.com/portfolio/)<br>
-**Link to the original file: [FreeCodeCamp Project 5 - Personal Portfolio Webpage]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Link to the original file: [FreeCodeCamp Project 5 - Personal Portfolio Webpage](https://codepen.io/freeCodeCamp/full/zNBOYG)
 
