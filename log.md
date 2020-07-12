@@ -33,7 +33,7 @@
 
 **Thoughts: Quite challenging to deal with all the divs
 
-### 3rd and 4th May DID NOT CODE :( ###
+3rd and 4th May DID NOT CODE :(
 
 ###Day 5: 5th May, 2020
 
@@ -41,7 +41,7 @@
 
 **Thoughts: I'm enjoying this so much! Can't stop doing it. My family complains I stay in my bedroom for too long but I just can't stop doing what I'm doing hahahahaha
 
-### 6th May DID NOT CODE :( ###
+6th May DID NOT CODE :(
 
 ###Day 6: 7th May, 2020
 
