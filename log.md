@@ -163,14 +163,66 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 ###Day 11: 8th July, 2020
 
-**Today's Progress: Built Project 4 of 5. 
+**Today's Progress: Started a 3-Day course on SEO. Also the day of the Aunt and the Nice was stablished! =)
+
+**Thoughts: Quite boring. Don't like this "digital marketing" subject but it's an important knowledge, at least the basics, so let's go for that.
+
+###Day 12: 9th July, 2020
+
+**Today's Progress: Learned how to use tools like Keywordtool.io and Ubersuggest. 
+
+**Thoughts: Still boring, but easy. Learned the importance of understanding the high volume and low volume keywords and when to target each one, head tail, short tail and medium tail keywords, user intention, meta description tags, robots.txt, the importance of sitemap and snipets on SERP. User intention, snipets and SERP has a lot to do with my current job at Lionbridge so very easy to understand this part.
+
+###Day 13: 10th July, 2020
+
+**Today's Progress: Finished the SEO course. Learned about Google Web Dev Tools.
+
+**Thoughts: Interesting! Web Dev is definetely something I'll take a look all the time. Page Speed Insights tool seems to be really useful to test the speed of the webpage and the reasons for the result, something I was thinking about some other day. Also learned how to use the https protocol. (I'll try to migrate my uncle's webpage later.)
+
+###Day 14: 11th July, 2020
+
+**Today's Progress: Saw some videos and articles about SEO. Relaxing day, no coding, no studying.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###Day 15: 12th July, 2020
+
+**Today's Progress: Finished building Project 4 of 5.
 
 **Thoughts: 
 
 **Link to work: [Technical Documentation Page](http://aulaspotify.atwebpages.com/technical/)<br>
-**Link to the original file: [FreeCodeCamp Project 4 - Technical Documentation Page]()
+**Link to the original file: [FreeCodeCamp Project 4 - Technical Documentation Page](https://codepen.io/freeCodeCamp/full/NdrKKL)
 
-###Day 12: 9th July, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+###Day 15: 12th July, 2020
 
 **Today's Progress: Built Project 5 of 5. 
 
