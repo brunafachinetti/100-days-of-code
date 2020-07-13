@@ -194,10 +194,12 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 ###Day 15: 13th July, 2020
 
-**Today's Progress: Built Project 5 of 5. 
+**Today's Progress: Built Project 5 of 5 and officially FINISHED RESPONSIVE WEB DESIGN CERTIFICATION!
 
-**Thoughts: 
+**Thoughts: Quite hard to set up the projects grid! I'm still struggling with flexbox and grid, I will dive deeper on it and study more and practice more as I think I should master these two things before moving on.
 
 **Link to work: [Personal Portfolio Webpage](http://aulaspotify.atwebpages.com/portfolio/)<br>
 **Link to the original file: [FreeCodeCamp Project 5 - Personal Portfolio Webpage](https://codepen.io/freeCodeCamp/full/zNBOYG)
+
+
 
