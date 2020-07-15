@@ -201,5 +201,15 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 **Link to work: [Personal Portfolio Webpage](http://aulaspotify.atwebpages.com/portfolio/)<br>
 **Link to the original file: [FreeCodeCamp Project 5 - Personal Portfolio Webpage](https://codepen.io/freeCodeCamp/full/zNBOYG)
 
+###Day 16: 14th July, 2020
+
+**Today's Progress: Watched videos and tutorials about Flexbox and Grid and also started building my portfolio.
+
+**Thoughts: I'm still struggling with Grids and position: absolute/relative. Sometimes I see the teacher doing stuff that has no logic for me but at the end it works so I'm gonna keep practicing and studying this.
+
+
+
+
+
 
 
