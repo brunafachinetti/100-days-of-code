@@ -207,6 +207,20 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: I'm still struggling with Grids and position: absolute/relative. Sometimes I see the teacher doing stuff that has no logic for me but at the end it works so I'm gonna keep practicing and studying this.
 
+###Day 17: 15th July, 2020
+
+**Today's Progress: Finished building my portfolio!
+
+**Thoughts: I'm starting to get Flexbox and Grid a little better. Watched many videos on youtube and I'm starting to feel more confortable to build layouts. I didn't launch my website yet as I still need to finish some projects to put in there. But the sctructure is ready.
+
+**Link to work: [Personal Portfolio Webpage](http://brunaf.onlinewebshop.net)
+
+###Day 18: 18th July, 2020
+
+**Today's Progress: Started with Javascript! Learned about variables, operators and data treatment. I'm very excited! It seems scary when I think about all the things this language can do and how complex it will be to do all that. But in parallel I'm also watching this [algorithm course](https://www.cursoemvideo.com/course/curso-de-algoritmo/) which is helping me a lot to understand the logic. Also, still working on creating my sister's webpage and improving my uncle's page.
+
+**Thoughts: 
+And yes, I spent two days not coding. But I watched videos related to programming, read a little bit on the HTML & CSS book... it was not completely wasted days but yes, no excuses, two days not coding just because it was cold and I felt like just being lazy and enjoying the weather lazyness not doing any s*** at all. Damn...
 
 
 
