@@ -219,7 +219,7 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Today's Progress: Started with Javascript! Learned about variables, operators and data treatment. I'm very excited! It seems scary when I think about all the things this language can do and how complex it will be to do all that. But in parallel I'm also watching this [algorithm course](https://www.cursoemvideo.com/course/curso-de-algoritmo/) which is helping me a lot to understand the logic. Also, still working on creating my sister's webpage and improving my uncle's page.
 
-**Thoughts: Yes, I spent two days not coding. But I watched videos related to programming, read a little bit on the HTML & CSS book... it was not completely wasted days but yes, no excuses, two days not coding just because it was cold and I felt like just being lazy and enjoying the weather lazyness not doing any s%&$ at all. Damn...
+**Thoughts: Yes, I spent two days not coding. But I watched videos related to programming, read a little bit on the HTML & CSS book... it was not completely wasted days but yes, no excuses, two days not coding just because it was cold and I felt like just being lazy and enjoying the weather lazyness not doing any sh!& at all. Damn...
 
 ###Day 19: 19th July, 2020
 
@@ -227,7 +227,17 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: I think things seemed hard at first cause I was skipping steps. Now I found this course with this amazing teacher who makes everything step by step and this way I can keep up with the lessons. Let's say it's a Javascript for dummies hahahaha it fit me well :)
 
+###Day 20: 20th July, 2020
 
+**Today's Progress: Continued learning about DOM manipulation.
+
+**Thoughts: And continued studying algorithms with [Curso em Video](https://www.cursoemvideo.com/course/curso-de-algoritmo/)
+
+###Day 21: 21st July, 2020
+
+**Today's Progress: Learning algorithms and finished the template for my sister's website.
+
+**Thoughts: Cool to work on something from zero. Pictures, styles, colors... everything up to me (and my sister's taste of course lol)
 
 
 
