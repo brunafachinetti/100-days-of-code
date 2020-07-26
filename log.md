@@ -239,6 +239,31 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: Cool to work on something from zero. Pictures, styles, colors... everything up to me (and my sister's taste of course lol)
 
+###Day 22: 22nd July, 2020
+
+**Today's Progress: Still learning algorithms and DOM.
+
+**Thoughts: I'm getting lazy and studying 1 hour that actually worth 10min.
+
+###Day 23: 23rd July, 2020
+
+**Today's Progress: Learned how to set up a good CV and what to expect on my first job.
+
+**Thoughts: I know this isn't coding, but still related.
+
+###Day 24: 26th July, 2020
+
+**Today's Progress: Did 50+ HTML challenges on SoloLearn app and learned arrays with JS.
+
+**Thoughts: Just downloaded SoloLearn and Grasshopper apps to really sticky the acquired knowledge into my brain. I'm loving it! They're really awesome apps!
+
+
+
+
+
+
+
+
 
 
 
