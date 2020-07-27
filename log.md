@@ -255,7 +255,13 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Today's Progress: Did 50+ HTML challenges on SoloLearn app and learned arrays with JS.
 
-**Thoughts: Just downloaded SoloLearn and Grasshopper apps to really sticky the acquired knowledge into my brain. I'm loving it! They're really awesome apps!
+**Thoughts: Just downloaded SoloLearn and Grasshopper apps to really get the acquired knowledge sticky into my brain. I'm loving it! They're really awesome apps!
+
+###Day 25: 27th July, 2020
+
+**Today's Progress: Learned about procedures: routines, parameter passing (value and reference), all using "Portugol".
+
+**Thoughts: It seems easier than I thought. I think these super didatic lessons together with this learning language "Portugol" are making everything really easy to understand. I struggled a bit only with the fibonacci sequence as I was thinking how to make value 2 become value 1 and value 3 become value 2. OMG it was so easy, just had to write that with the syntax! value 1 receives value 2; value 2 receives value 3! All that inside the "para" so it changes everytime.
 
 
 
