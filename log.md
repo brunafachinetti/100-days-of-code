@@ -263,6 +263,35 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 **Thoughts: It seems easier than I thought. I think these super didatic lessons together with this learning language "Portugol" are making everything really easy to understand. I struggled a bit only with the fibonacci sequence as I was thinking how to make value 2 become value 1 and value 3 become value 2. OMG it was so easy, just had to write that with the syntax! value 1 receives value 2; value 2 receives value 3! All that inside the "para" so it changes everytime.
 
+###Day 26: 28th July, 2020
+
+**Today's Progress: Worked on uncle's Jack website and learned a bit about the worflow when creating a project.
+
+**Thoughts: Changed everything on the website and tried to use as little media queries as possible. I dont remember where but I remember reading somewhere that the less media queries the best.
+
+###Day 27: 29th July, 2020
+
+**Today's Progress: Worked on my portfolio website.
+
+**Thoughts: Changed everything too. Made it cleaner and without pictures. Played a lot on SoloLearn and Grasshopper apps.
+
+###Day 28: 30th July, 2020
+
+**Today's Progress: Finished uncle's Jack website version 2.0 lol
+
+**Thoughts: The big screen version still pretty ugly. Most people will access the page using a smartphone so I made it primarily thinking about mobile devices and even though it's still responsive, it is ugly on big screens. Need to study more about design.
+
+**Link to work: [Espetos do Indiao](http://www.espetosdoindiao.com.br)
+
+###Day 29: 1st Aug, 2020
+
+**Today's Progress: Learned about conditions and integrating JS with HTML and CSS and created some small projects for practice!
+
+**Thoughts: Really cool! Loving it!
+
+**Link to work: [Changing background color and greeting](https://github.com/brunafachinetti/Saudacao)
+**Link to work: [How old are you](https://github.com/brunafachinetti/Verificador-idade)
+
 
 
 
