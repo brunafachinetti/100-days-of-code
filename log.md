@@ -304,6 +304,12 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 * Thoughts: Remade a lot of my practicing exercises using Javascript this time instead of "portugol", so cool do it!
 
+### Day 32: 4th Aug, 2020
+
+* Today's Progress: Started "Next Level Week" by Rocketseat. It's supposed to be a week of coding to develop a project using HTML, CSS and Javascript. 
+
+* Thoughts: Excited to see that I'm not a complete beginner anymore! Maybe I could even have take the more difficult path that they had. Very cool to see the evolution :)
+
 
 
 
