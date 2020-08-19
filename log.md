@@ -310,6 +310,12 @@ Now I know all I had to do was to set the image properties to max-width: 100% an
 
 * Thoughts: Excited to see that I'm not a complete beginner anymore! Maybe I could even have take the more difficult path that they had. Very cool to see the evolution :)
 
+### Day 33: 18th Aug, 2020
+
+* Today's Progress: All these days without log in here doesn't mean I didn't code! Au contraire! I spent a lot of time learning new things in JS and accomplished two things: 
+I made a full game with JS! Freaking awesome hahahahaha and I finished Javascript Basic Course from cursoemvideo. Awesome too!
+
+* Thoughts: Didn't finish Rocketseat NLW cause the lessons were too easy and the other track they had was too hard. I spent some time with the apps too, Sololearn and Grasshopper but Sololearn still my favorite. That is it for today!
 
 
 
