@@ -317,6 +317,26 @@ I made a full game with JS! Freaking awesome hahahahaha and I finished Javascrip
 
 * Thoughts: Didn't finish Rocketseat NLW cause the lessons were too easy and the other track they had was too hard. I spent some time with the apps too, Sololearn and Grasshopper but Sololearn still my favorite. That is it for today!
 
+### Day 34: 19th Aug, 2020
+
+* Today's Progress: Starting with ES6
+
+### Day 35: 20th Aug, 2020
+
+* Today's Progress: Learned OO
+
+### Day 36: 21st Aug, 2020
+
+* Today's Progress: Finished ES6 section of Udemy course
+
+* Thoughts: Feeling a little bit down and not so motivated in the last days... Let's get back to work and finish the Personal Budget App and the Google Glass website aaaand the rock paper scissors game! C'mon Bruna!!!
+
+### Day 37: 27th Aug, 2020
+
+* Today's Progress: Finished Personal Budget App and Google Glass website
+
+* Thoughts: That's how it's done! :D Don't give up! Keep motivation ON!
+
 
 
 
