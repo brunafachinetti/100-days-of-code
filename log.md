@@ -333,9 +333,31 @@ I made a full game with JS! Freaking awesome hahahahaha and I finished Javascrip
 
 ### Day 37: 27th Aug, 2020
 
-* Today's Progress: Finished Personal Budget App and Google Glass website
+* Today's Progress: Finished Google Glass website
 
 * Thoughts: That's how it's done! :D Don't give up! Keep motivation ON!
+
+### Day 38: 28th Aug, 2020
+
+* Today's Progress: Struggling with Personal Budget App
+
+* Thoughts: Kind of hard to understand the logic behind it.
+
+### Day 39: 29th Aug, 2020
+
+* Today's Progress: Still working on the app
+
+### Day 40: 30st Aug, 2020
+
+* Today's Progress: Still working on the app. Spent the whole day solving two issues: adding <tr> in the tbody of a table with js and understanding the association made to delete each item from the table.
+  
+  ### Day 41: 1st Sep, 2020
+
+* Today's Progress: Finished Personal Budget App!
+
+* Thoughts: Hard to understand the logic behind all the features in the app and I will definetely have to practice more.
+
+* Link to work: [Personal Budget App](http://aulaspotify.atwebpages.com/budgetapp)
 
 
 
